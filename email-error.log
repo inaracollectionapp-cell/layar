@@ -1,0 +1,6 @@
+[2025-11-18 16:34:39] EMAIL EXCEPTION
+Booking: ISOLA-B2B88201
+SMTP Config - Host: mail.sleepwellindonesia.com, Port: 587
+Exception: Invalid address:  (to): 
+PHPMailer Error: Invalid address:  (to): 
+

@@ -1,0 +1,2 @@
+[18-Nov-2025 11:47:26 Asia/Jakarta] Processing webhook for booking: A409AD72 with status: PAID
+[18-Nov-2025 11:47:26 Asia/Jakarta] Webhook Exception: Unknown column 'tripay_reference' in 'field list'
